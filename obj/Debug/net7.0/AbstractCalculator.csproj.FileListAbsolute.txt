@@ -1,0 +1,15 @@
+C:\Users\User\repos\Newton\AbstractCalculator\bin\Debug\net7.0\AbstractCalculator.exe
+C:\Users\User\repos\Newton\AbstractCalculator\bin\Debug\net7.0\AbstractCalculator.deps.json
+C:\Users\User\repos\Newton\AbstractCalculator\bin\Debug\net7.0\AbstractCalculator.runtimeconfig.json
+C:\Users\User\repos\Newton\AbstractCalculator\bin\Debug\net7.0\AbstractCalculator.dll
+C:\Users\User\repos\Newton\AbstractCalculator\bin\Debug\net7.0\AbstractCalculator.pdb
+C:\Users\User\repos\Newton\AbstractCalculator\obj\Debug\net7.0\AbstractCalculator.csproj.AssemblyReference.cache
+C:\Users\User\repos\Newton\AbstractCalculator\obj\Debug\net7.0\AbstractCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\repos\Newton\AbstractCalculator\obj\Debug\net7.0\AbstractCalculator.AssemblyInfoInputs.cache
+C:\Users\User\repos\Newton\AbstractCalculator\obj\Debug\net7.0\AbstractCalculator.AssemblyInfo.cs
+C:\Users\User\repos\Newton\AbstractCalculator\obj\Debug\net7.0\AbstractCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\repos\Newton\AbstractCalculator\obj\Debug\net7.0\AbstractCalculator.dll
+C:\Users\User\repos\Newton\AbstractCalculator\obj\Debug\net7.0\refint\AbstractCalculator.dll
+C:\Users\User\repos\Newton\AbstractCalculator\obj\Debug\net7.0\AbstractCalculator.pdb
+C:\Users\User\repos\Newton\AbstractCalculator\obj\Debug\net7.0\AbstractCalculator.genruntimeconfig.cache
+C:\Users\User\repos\Newton\AbstractCalculator\obj\Debug\net7.0\ref\AbstractCalculator.dll
